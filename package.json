@@ -1,0 +1,29 @@
+{
+  "name": "best-practices",
+  "version": "1.0.0",
+  "description": "Best Practices for all Frameworks and languages",
+  "main": "readme.md",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankitduseja/best-practices.git"
+  },
+  "keywords": [
+    "Best",
+    "Practices",
+    "Coding",
+    "Javascript",
+    "Webpack",
+    "React",
+    "Node.js",
+    "Python"
+  ],
+  "author": "Ankit Duseja",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ankitduseja/best-practices/issues"
+  },
+  "homepage": "https://github.com/ankitduseja/best-practices#readme"
+}
